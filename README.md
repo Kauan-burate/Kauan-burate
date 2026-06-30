@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/img/imagemheader.png" alt="Banner Kauan Burate" width="100% height: 50px;">
+    <img src="./assets/img/imagemheader.png" alt="Banner Kauan Burate" width="100% height: 30px;">
 </div>
 
 <p align="center">
