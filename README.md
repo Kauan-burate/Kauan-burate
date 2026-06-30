@@ -1,8 +1,12 @@
-<header style="background-color: #0D1117;">
+<div align="center">
+    <img src="./assets/img/imagemheader.png" alt="Banner Kauan Burate" width="100%">
+</div>
 
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Olá!+Eu+sou+Kauan+Burate;Desenvolvedor+de+Software;Programador+em+C+e+C%23;Desenvolvedor+Web;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+<p align="center">
 
-</header>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Olá!+Eu+sou+Kauan+Burate;Desenvolvedor+de+Software;Programador+em+C+e+C%23;Desenvolvedor+Web;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+
+</p>
 
 ## 💻 Desenvolvedor de Software
 
