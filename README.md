@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&section=header&text=Kauan%20Burate&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=30,24,20,12&section=header"/>
 </p>
 
 <p align="center">
