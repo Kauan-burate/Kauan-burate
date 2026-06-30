@@ -1,4 +1,4 @@
-# Olá, eu sou Kauan Burate de Souza! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Olá!+Eu+sou+Kauan+Burate;Desenvolvedor+de+Software;Programador+em+C+e+C%23;Desenvolvedor+Web;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ## 💻 Desenvolvedor de Software
 
