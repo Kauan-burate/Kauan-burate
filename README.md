@@ -1,9 +1,8 @@
-<div align="center">
+<header style="background-color: #0D1117;">
 
-<img src="https://your-image-url.com/banner.png" width="100%"/>
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Olá!+Eu+sou+Kauan+Burate;Desenvolvedor+de+Software;Programador+em+C+e+C%23;Desenvolvedor+Web;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
-
-</div>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Olá!+Eu+sou+Kauan+Burate;Desenvolvedor+de+Software;Programador+em+C+e+C%23;Desenvolvedor+Web;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+</header>
 
 ## 💻 Desenvolvedor de Software
 
@@ -59,3 +58,5 @@ Sou estudante de desenvolvimento de software apaixonado por tecnologia, programa
 ---
 
 > "A tecnologia transforma ideias em realidade."
+
+
