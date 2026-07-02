@@ -20,6 +20,7 @@ Sou estudante de desenvolvimento de software apaixonado por tecnologia, programa
 ## 🚀 Atualmente
 
 - 💻 Desenvolvendo projetos com HTML, CSS, e JavaScript
+- Aprendendo e estudando sobre NODE.JS
 
 ---
 ## 💻 Tecnologias
