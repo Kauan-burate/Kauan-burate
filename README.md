@@ -1,12 +1,17 @@
-<div align="center">
-    <img src="./assets/img/imagemheader.png" alt="Banner Kauan Burate" width="100% ">
-</div>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=30,24,20,12&section=header"/>
+</p>
+>>>>>>> 9fdc4d2416c6ea0ffdaaffe64d8696bb139a250d
 
 <p align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Olá!+Eu+sou+Kauan+Burate;Desenvolvedor+de+Software;Programador+em+C+e+C%23;Desenvolvedor+Web;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 </p>
+
 
 ## 💻 Desenvolvedor de Software
 
@@ -17,6 +22,7 @@ Sou estudante de desenvolvimento de software apaixonado por tecnologia, programa
 ## 🚀 Atualmente
 
 - 💻 Desenvolvendo projetos com HTML, CSS, e JavaScript
+- Aprendendo e estudando sobre NODE.JS
 
 ---
 ## 💻 Tecnologias
@@ -63,4 +69,6 @@ Sou estudante de desenvolvimento de software apaixonado por tecnologia, programa
 
 > "A tecnologia transforma ideias em realidade."
 
-
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=30,24,20,12&section=footer"/>
+</p>
