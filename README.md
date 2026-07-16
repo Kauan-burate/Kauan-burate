@@ -4,7 +4,6 @@
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=30,24,20,12&section=header"/>
 </p>
->>>>>>> 9fdc4d2416c6ea0ffdaaffe64d8696bb139a250d
 
 <p align="center">
 
