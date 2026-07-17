@@ -1,0 +1,25 @@
+{
+  "name": "kauan-burate",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <img\r     width=\"100%\"\r     src=\"https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=30,24,20,12&section=header\"/>\r </p>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kauan-burate/Kauan-burate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Kauan-burate/Kauan-burate/issues"
+  },
+  "homepage": "https://github.com/Kauan-burate/Kauan-burate#readme",
+  "dependencies": {
+    "pg": "^8.22.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
