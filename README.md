@@ -11,12 +11,6 @@
 
 </p>
 
-<h2 align="center">💻 Desenvolvedor Backend</h2>
-
-<p align="center">
-  <strong>Transformando lógica, dados e código em soluções eficientes.</strong>
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
