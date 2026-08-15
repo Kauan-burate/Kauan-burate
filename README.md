@@ -1,4 +1,3 @@
-
 <p align="center">
   <img
     width="100%"
@@ -7,70 +6,33 @@
 
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=28\&duration=3000\&pause=1000\&color=00C4FF\&center=true\&vCenter=true\&width=900\&lines=Olá!+Eu+sou+Kauan+Burate;Desenvolvedor+Backend;Desenvolvedor+de+Software;Node.js+%7C+Express.js+%7C+PostgreSQL;Construindo+APIs+REST;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=28\&duration=3000\&pause=1000\&color=00C4FF\&center=true\&vCenter=true\&width=900\&lines=Olá!+Eu+sou+Kauan+Burate;Desenvolvedor+de+Software;Programador+Backend;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 </p>
 
----
+## 💻 Desenvolvedor de Software
 
-## 👨‍💻 Sobre mim
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor apaixonado por tecnologia, programação e inovação.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor apaixonado por tecnologia, programação e resolução de problemas.
+Atualmente, meu foco está no **desenvolvimento Backend**, trabalhando com APIs, bancos de dados e desenvolvimento de sistemas.
 
-Meu foco principal atualmente está no **desenvolvimento Backend**, trabalhando com criação de APIs, integração com bancos de dados e desenvolvimento de aplicações utilizando **Node.js, Express.js e PostgreSQL**.
-
-Tenho interesse em construir sistemas organizados, escaláveis e fáceis de manter, sempre buscando evoluir minhas habilidades através de projetos práticos.
-
-```javascript
-const kauan = {
-    foco: "Backend Development",
-
-    linguagens: [
-        "JavaScript",
-        "C",
-        "C#"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "API REST"
-    ],
-
-    bancoDeDados: [
-        "PostgreSQL",
-        "SQL"
-    ],
-
-    ferramentas: [
-        "Postman",
-        "Git",
-        "GitHub",
-        "VS Code"
-    ],
-
-    metodologia: [
-        "Kanban"
-    ]
-};
-```
+Estou sempre buscando **aprender novas linguagens, tecnologias e ferramentas**, colocando meus conhecimentos em prática através de projetos.
 
 ---
 
 ## 🚀 Atualmente
 
-* 🔥 Desenvolvendo APIs REST com **Node.js + Express.js**
+* 💻 Desenvolvendo projetos de software
+* 🔌 Criando **APIs REST**
 * 🗄️ Trabalhando com **PostgreSQL e SQL**
-* 🔌 Criando e testando endpoints HTTP
-* 🧪 Utilizando **Postman** para testes de APIs
-* 🔄 Desenvolvendo sistemas com operações **CRUD**
-* 📊 Utilizando **Kanban** para organização de projetos
-* 🌱 Aprimorando meus conhecimentos em Backend
-* 💡 Desenvolvendo projetos práticos para evoluir como programador
+* 🧪 Testando APIs com **Postman**
+* 🔄 Desenvolvendo sistemas com **CRUD**
+* 📚 Aprendendo novas linguagens e tecnologias
+* 📋 Utilizando **Kanban** para organização dos projetos
 
 ---
 
-# ⚙️ Backend
+## ⚙️ Backend
 
 <p align="left">
 
@@ -80,34 +42,15 @@ const kauan = {
 
 <img src="https://img.shields.io/badge/API_REST-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CRUD-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </p>
 
-### 🔌 O que sei fazer
-
-* Criar **APIs REST**
-* Criar endpoints com Express.js
-* Trabalhar com métodos HTTP:
-
-  * `GET`
-  * `POST`
-  * `PUT`
-  * `PATCH`
-  * `DELETE`
-* Criar rotas com parâmetros
-* Receber e validar dados JSON
-* Trabalhar com `req` e `res`
-* Conectar aplicações ao PostgreSQL
-* Executar operações CRUD
-* Trabalhar com consultas SQL
-* Manipular respostas HTTP
-* Testar endpoints utilizando Postman
-* Organizar projetos Node.js
+`API REST` · `CRUD` · `HTTP` · `JSON` · `Endpoints` · `Rotas`
 
 ---
 
-# 🗄️ Banco de Dados
+## 🗄️ Banco de Dados
 
 <p align="left">
 
@@ -117,63 +60,17 @@ const kauan = {
 
 </p>
 
-### 🧠 Conhecimentos
+Conhecimentos em:
 
-* PostgreSQL
-* SQL
-* `SELECT`
-* `INSERT`
-* `UPDATE`
-* `DELETE`
-* `WHERE`
-* `JOIN`
-* `INNER JOIN`
-* `ORDER BY`
-* Chaves primárias
-* Chaves estrangeiras
-* Relacionamentos entre tabelas
-* `CREATE DATABASE`
-* `CREATE TABLE`
-* `ALTER TABLE`
-* Constraints
-* Integração PostgreSQL + Node.js
+`SELECT` `INSERT` `UPDATE` `DELETE` `JOIN` `WHERE` `ORDER BY`
+
+Também trabalho com **chaves primárias, chaves estrangeiras, relacionamentos e integração entre PostgreSQL e aplicações**.
 
 ---
 
-# 🧪 Testes de API
+## 💻 Tecnologias
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-</p>
-
-Utilizo o **Postman** para testar e validar minhas APIs REST.
-
-### 🔎 Testes realizados
-
-```text
-GET     → Buscar dados
-POST    → Criar registros
-PUT     → Atualizar registros
-PATCH   → Atualizar parcialmente
-DELETE  → Remover registros
-```
-
-Também trabalho com:
-
-* JSON
-* Status HTTP
-* Headers
-* Body
-* Parâmetros de rota
-* Query parameters
-* Testes de endpoints
-* Validação das respostas da API
-
----
-
-# 💻 Linguagens
+### Linguagens
 
 <p align="left">
 
@@ -185,9 +82,7 @@ Também trabalho com:
 
 </p>
 
----
-
-# 🎨 Frontend
+### Frontend
 
 <p align="left">
 
@@ -199,11 +94,7 @@ Também trabalho com:
 
 </p>
 
-Apesar do foco atual em Backend, também possuo conhecimentos em desenvolvimento de interfaces utilizando HTML, CSS e Bootstrap.
-
----
-
-# 🛠️ Ferramentas
+### Ferramentas
 
 <p align="left">
 
@@ -219,180 +110,79 @@ Apesar do foco atual em Backend, também possuo conhecimentos em desenvolvimento
 
 ---
 
-# 📊 Organização de Projetos
+## 📋 Organização
 
-### 📋 Kanban
+Utilizo **Kanban** para organizar tarefas e acompanhar o desenvolvimento dos meus projetos.
 
-Utilizo o conceito de **Kanban** para organizar tarefas e acompanhar o desenvolvimento dos projetos.
-
-```text
-┌──────────────┐
-│   BACKLOG    │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│  A FAZER     │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│ EM ANDAMENTO │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│    TESTE     │
-└──────┬───────┘
-       ↓
-┌──────────────┐
-│   CONCLUÍDO  │
-└──────────────┘
-```
+`Backlog` → `A Fazer` → `Em Desenvolvimento` → `Concluído`
 
 ---
 
-# 🔥 Projetos em Destaque
-
-### 🛒 ByteStore
-
-Projeto de loja voltado para produtos de informática.
-
-**Tecnologias:**
-
-`HTML` `CSS` `JavaScript`
-
----
+## 🔥 Projetos em Destaque
 
 ### 🎬 API de Filmes
 
-API REST desenvolvida utilizando **Node.js, Express.js e PostgreSQL**, permitindo realizar operações CRUD sobre filmes.
+API REST para gerenciamento de filmes.
 
 **Tecnologias:**
+`Node.js` `Express.js` `PostgreSQL` `Postman`
 
-`Node.js` `Express.js` `PostgreSQL` `SQL` `Postman`
+**Funcionalidades:**
 
-**Operações:**
-
-```text
-GET      → Listar filmes
-GET /:id → Buscar filme
-POST     → Criar filme
-PUT      → Atualizar filme
-DELETE   → Excluir filme
-```
+* Listagem de filmes
+* Busca por ID
+* Cadastro
+* Atualização
+* Exclusão
+* Relacionamento entre tabelas
 
 ---
 
 ### 📦 Sistema de Almoxarifado
 
-Sistema desenvolvido para gerenciamento de produtos e movimentações de estoque.
+Sistema para gerenciamento de produtos e movimentações de estoque.
 
 **Tecnologias:**
-
 `Node.js` `PostgreSQL` `SQL`
 
-**Funcionalidades:**
+---
 
-* Cadastro de produtos
-* Consulta de produtos
-* Atualização
-* Exclusão
-* Controle de quantidade
-* Registro de movimentações
-* Relacionamento entre tabelas
+### 🛒 ByteStore
+
+Projeto de loja de informática desenvolvido para praticar desenvolvimento Web.
+
+**Tecnologias:**
+`HTML` `CSS` `JavaScript`
 
 ---
 
-### 🎮 Projetos em C
-
-Desenvolvimento de pequenos jogos e projetos para praticar lógica de programação, estruturas condicionais, loops e manipulação de dados.
-
-**Tecnologia:**
-
-`C`
-
----
-
-### 🎮 Projetos em C#
-
-Projetos desenvolvidos para praticar programação orientada a objetos, lógica e desenvolvimento de aplicações.
-
-**Tecnologia:**
-
-`C#`
-
----
-
-# 📈 GitHub
+## 📊 GitHub
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kauan-burate&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Kauan-burate&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauan-burate&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🧠 Minha Stack
-
-```text
-                 BACKEND
-                    │
-          ┌─────────┴─────────┐
-          │                   │
-       Node.js            Express.js
-          │                   │
-          └─────────┬─────────┘
-                    │
-                 API REST
-                    │
-          ┌─────────┴─────────┐
-          │                   │
-       Postman             PostgreSQL
-          │                   │
-          └─────────┬─────────┘
-                    │
-                   SQL
-```
-
----
-
-# 📚 Em constante evolução
-
-```javascript
-while (true) {
-    aprender();
-    praticar();
-    desenvolver();
-    melhorar();
-}
-```
-
-Meu objetivo é continuar evoluindo como **Desenvolvedor Backend**, aprofundando meus conhecimentos em APIs, bancos de dados, arquitetura de software e boas práticas de desenvolvimento.
-
----
-
-# 📫 Contato
-
-<p align="left">
-
-💼 <strong>LinkedIn:</strong><br> <a href="https://linkedin.com/in/kauanburate/">
-linkedin.com/in/kauanburate </a>
-
-<br><br>
-
-📧 <strong>Email:</strong><br>
-[kauanburate01@gmail.com](mailto:kauanburate01@gmail.com)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauan-burate&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </p>
 
 ---
 
-<p align="center">
+## 📚 Em constante evolução
 
-> 💡 "A tecnologia transforma ideias em realidade."
+Busco constantemente **aprender novas linguagens, tecnologias e conceitos de desenvolvimento**, ampliando meus conhecimentos e colocando cada aprendizado em prática através de projetos.
 
-</p>
+---
+
+## 📫 Contato
+
+💼 **LinkedIn:** [linkedin.com/in/kauanburate](https://linkedin.com/in/kauanburate/)
+
+📧 **Email:** [kauanburate01@gmail.com](mailto:kauanburate01@gmail.com)
+
+---
+
+> "A tecnologia transforma ideias em realidade."
 
 <p align="center">
   <img
